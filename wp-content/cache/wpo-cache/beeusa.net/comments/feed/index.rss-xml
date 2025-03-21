@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Bee Construction	</title>
+	<atom:link href="https://beeusa.net/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeusa.net/</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Mar 2025 10:22:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		Comment on The Bee Construction Ecosystem: A Network of Excellence by Mike		</title>
+		<link>https://beeusa.net/the-bee-construction-ecosystem-a-network-of-excellence/#comment-29</link>
+
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 10:22:15 +0000</pubDate>
+		<guid isPermaLink="false">https://bee-construction.htecom.com/?p=36377#comment-29</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://beeusa.net/the-bee-construction-ecosystem-a-network-of-excellence/#comment-28&quot;&gt;htecom&lt;/a&gt;.
+
+123sjdj]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://beeusa.net/the-bee-construction-ecosystem-a-network-of-excellence/#comment-28">htecom</a>.</p>
+<p>123sjdj</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The Bee Construction Ecosystem: A Network of Excellence by htecom		</title>
+		<link>https://beeusa.net/the-bee-construction-ecosystem-a-network-of-excellence/#comment-28</link>
+
+		<dc:creator><![CDATA[htecom]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 08:02:10 +0000</pubDate>
+		<guid isPermaLink="false">https://bee-construction.htecom.com/?p=36377#comment-28</guid>
+
+					<description><![CDATA[Good]]></description>
+			<content:encoded><![CDATA[<p>Good</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
